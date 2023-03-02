@@ -1,2 +1,2 @@
 # arduinoMusic
-Play songs with a buzzer on pin #11 of an Arduino board
+Play songs on a variety of devices using an Arduino board
